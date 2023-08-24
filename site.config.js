@@ -18,8 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "polybear2-log",
+    title: "morethan-log",
     description: "welcome",
+    theme: "auto",
   },
 
   // CONFIG configration (required)
